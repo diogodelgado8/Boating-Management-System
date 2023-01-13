@@ -1,0 +1,39 @@
+------------------------------------------------------
+--A. The name of all boats that are used in some trip.
+
+ boat_name 
+----------------------
+ Cesário Barata Verde
+ Luís Delgado Camões
+ Salazar
+(3 rows)
+
+---------------------------------------------------------
+--B. The name of all boats that are not used in any trip.
+
+ boat_name 
+--------------------------
+ Blimunda
+ Baltazar
+ Fernando Contente Pessoa
+(3 rows)
+
+-----------------------------------------------------------
+--C. The name of all boats registered in 'PRT' (ISO code) 
+     for which at least one responsible for a
+     reservation has a surname that ends with 'Santos'.
+
+       boat_name      | sailor_first_name | sailor_surname
+----------------------+-------------------+----------------
+ Cesário Barata Verde |     Ambrósio      |     Santos
+(1 row)
+
+-----------------------------------------------------------
+--D. The full name of all skippers without any certificate
+     corresponding to the class of the trip’s boat.
+
+ fisrt_name |  surname 
+------------+------------
+  Madalena  | Fernandes
+  Mariana   |   Lima
+(2 rows)
