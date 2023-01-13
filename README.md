@@ -3,7 +3,7 @@ A Boating Management System created from scratch using PostgreSQL. Project devel
 
 Group project developed over the course of a couple of weeks with my colleagues Mariana Lima and Madalena Fernandes.
 
-The project is divided into 3 parts, each one with different deliverables. 
+The project is divided into 3 parts, each one with different deliverables. The several parts of this project should be considered INDEPENDENT of one another.
 
 Part 1: Creation of an Entity-Association model diagram for the Boating management system.
 
